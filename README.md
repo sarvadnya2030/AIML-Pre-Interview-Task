@@ -1,40 +1,47 @@
-The dataset contains the following details about each student:
+📂 Dataset
 
-gender
+Each student record includes:
 
-race/ethnicity
+Features:
 
-parental level of education
+Gender
 
-lunch
+Race/Ethnicity
 
-test preparation course
+Parental level of education
 
-reading score
+Lunch
 
-writing score
+Test preparation course
 
-math score (this is the target you need to predict)
+Reading score
 
-You have two files:
+Writing score
 
-train.csv → For building your prediction model
+Target:
 
-test.csv → For testing and evaluating your model
+Math score (to be predicted)
 
-🛠️ Your Task
+Files provided:
 
-Use the training dataset to build a model that predicts Math score.
+train.csv → Training data for model building
 
-Test your model using the testing dataset.
+test.csv → Testing data for evaluation
 
-Prepare a short PowerPoint (PPT) presentation to explain:
+🛠️ Task
 
-How you approached the problem,
+Build a prediction model using the training dataset to estimate a student’s Math score.
 
-Your prediction results,
+Evaluate your model on the testing dataset.
 
-Any insights you found.
+Present findings in a short PowerPoint (PPT), covering:
 
-Remember: You only need to predict the Math score.
-The rest of the approach and solution is for you to figure out and present.
+Problem understanding & approach
+
+Model development (data prep, algorithms tried, final choice)
+
+Prediction results (evaluation metrics, sample predictions)
+
+Key insights or interesting patterns from the data
+
+👉 Your job: Accurately predict Math scores and clearly explain your process + insights.
