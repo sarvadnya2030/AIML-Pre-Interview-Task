@@ -44,4 +44,4 @@ Prediction results (evaluation metrics, sample predictions)
 
 Key insights or interesting patterns from the data
 
-👉 Your job: Accurately predict Math scores and clearly explain your process + insights.
+👉 Remember: Accurately predict Math scores and clearly explain your process + insights.
